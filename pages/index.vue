@@ -1,0 +1,14 @@
+<template>
+  <SectionsHome1Slider/>
+  <SectionsHome1Services/>
+  <SectionsHome1About/>
+  <SectionsHome1Work/>
+  <SectionsHome1Funfact/>
+  <SectionsHome1Projects/>
+  <SectionsHome1Testimonial2/>
+  <SectionsHome1Faq/>
+  <SectionsHome1FormVideo/>
+  <SectionsHome1Clients/>
+  <SectionsHome1News/>
+  <SectionsHome1CallToAction/>
+</template>
