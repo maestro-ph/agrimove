@@ -1,1 +1,0 @@
-export { default } from "file:///Users/admin/Documents/ucc/agrimove/template/logixs/file/node_modules/@nuxt/vite-builder/dist/runtime/vite-node.mjs"
