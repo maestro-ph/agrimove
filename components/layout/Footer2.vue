@@ -105,7 +105,7 @@
       <div class="auto-container">
         <div class="inner-container">
           <div class="copyright-text">
-            <p>© Copyright received by <NuxtLink to="index">agricoders1</NuxtLink></p>
+            <p>© Copyright received by <NuxtLink to="index">agricoders11</NuxtLink></p>
           </div>
         </div>
       </div>
