@@ -1,0 +1,1 @@
+export { default } from "file:///E:/AgrimoveWebsite/agrimove/node_modules/@nuxt/vite-builder/dist/runtime/client.manifest.mjs"

@@ -48,10 +48,7 @@
         "../*"
       ],
       "@": [
-        "../../../../../../../../.."
-      ],
-      "@/*": [
-        "../../../../../../../../../*"
+        "../../.."
       ],
       "~~": [
         ".."
@@ -90,7 +87,7 @@
         "./imports"
       ],
       "#app-manifest": [
-        "./manifest/meta/1ab28c30-0e50-49e0-aa4e-14975a43703d.json"
+        "./manifest/meta/dev"
       ],
       "#build": [
         "."
@@ -138,7 +135,7 @@
     "../node_modules/@nuxt/devtools/runtime",
     "../node_modules/@nuxt/telemetry/runtime",
     "..",
-    "../../../../../../../../.."
+    "../../.."
   ],
   "exclude": [
     "../dist",
