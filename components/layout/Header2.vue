@@ -30,8 +30,8 @@
       <div class="auto-container"> 
         <!-- Main box -->
         <div class="main-box">
-          <div class="logo"><NuxtLink to="/"><img src="/images/logo-2.png" alt="" title="logixs"></NuxtLink></div>
-          
+          <div class="logo"><NuxtLink to="/"><img src="/images/Orange.png" alt="" title="Agrimove"></NuxtLink></div>
+                
           <!--Nav Box-->
           <div class="nav-outer">
             <nav class="nav main-menu">
@@ -59,7 +59,7 @@
       <nav class="menu-box">
         <div class="upper-box">
           <div class="nav-logo">
-            <NuxtLink to="/"><img src="/images/logo-2.png" alt="" title=""></NuxtLink>
+            <NuxtLink to="/"><img src="/images/Orange.png" alt="" title=""></NuxtLink>
           </div>
           <div class="close-btn" @click="handleToggled"><i class="icon fa fa-times"></i></div>
         </div>
@@ -132,7 +132,7 @@
         <div class="inner-container">
           <!--Logo-->
           <div class="logo">
-            <NuxtLink to="/" title=""><img src="/images/logo.png" alt="" title=""></NuxtLink>
+            <NuxtLink to="/" title=""><img src="/images/Orange.png" alt="" title=""></NuxtLink>
           </div>
 
           <!--Right Col-->

@@ -41,9 +41,9 @@ License: copyright commercial
 @import url("tm-utility-classes.css");
 @import url("modal-video.css");
 :root {
-  --theme-color1: #0b3b5e;
-  --theme-color2: #ff6d2e;
-  --theme-color3: #ebf1f5;
+  --theme-color1: #ffe4cf;
+  --theme-color2: #ff885b;
+  --theme-color3: #0b3b5e;
   --theme-color4: #7c858c;
   --bg-theme-color1: var(--theme-color1);
   --bg-theme-color2: var(--theme-color2);
@@ -60,7 +60,7 @@ License: copyright commercial
   --text-color-bg-theme-color1: #fff;
   --text-color-bg-theme-color2: #fff;
   --text-color-bg-theme-color3: #fff;
-  --theme-color-light: #ffffff;
+  --theme-color-light: #fff;
   --theme-color-dark: #000000;
   --text-color: #797f7d;
   --headings-color: #003c38;
@@ -2071,6 +2071,7 @@ Main Header
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
+
 }
 
 .main-menu {
@@ -2083,6 +2084,7 @@ Main Header
 
 .main-menu .navbar-collapse {
   padding: 0px;
+  
 }
 
 .main-menu .navigation {
@@ -2144,10 +2146,12 @@ Main Header
 .main-menu .navigation > li.current > a {
   color: var(--theme-color1);
   font-weight: 700;
+  
 }
 .main-menu .navigation > li.dropdown > a {
   padding-right: 14px;
   margin-right: -14px;
+  
 }
 .main-menu .navigation > li.dropdown > a:after {
   content: "\f107";
@@ -2164,6 +2168,7 @@ Main Header
   font-weight: 900;
   -webkit-transform: translateY(-50%);
   transform: translateY(-50%);
+  color: #ff6d2e;
 }
 .main-menu .navigation > li.dropdown:hover > ul {
   visibility: visible;
@@ -2181,7 +2186,7 @@ Main Header
   width: 220px;
   z-index: 100;
   padding: 10px 0 0;
-  background-color: #ffffff;
+  background-color: #ff6d2e;
   margin-top: 30px;
   opacity: 0;
   display: none;
@@ -2258,7 +2263,7 @@ Main Header
 }
 .main-menu .navigation > li > ul > li > ul > li {
   position: relative;
-  border-bottom: 1px solid #ebf1f5;
+  border-bottom: 1px solid #ff6d2e;
   width: 100%;
 }
 .main-menu .navigation > li > ul > li > ul > li:last-child {
@@ -2281,6 +2286,7 @@ Main Header
 .main-menu .navigation > li > ul > li > ul > li > a:hover {
   color: var(--theme-color2);
 }
+
 
 .main-menu .navigation li.dropdown .dropdown-btn {
   position: absolute;
@@ -2517,12 +2523,12 @@ Header Style Two
 }
 
 .header-style-two .main-menu .navigation > li > a {
-  color: #fff;
+  color: #557c56;
 }
 
 .header-style-two .main-menu .navigation > li:hover > a,
 .header-style-two .main-menu .navigation > li.current > a {
-  color: #fff;
+  color: #ff9652;
   font-size: 16px;
 }
 
@@ -2531,7 +2537,13 @@ Header Style Two
 }
 
 .header-style-two .ui-btn {
-  color: #fff;
+  color: #ff9652;
+  margin-right: 0;
+  margin-left: 30px;
+}
+
+.header-style-two .ui-btn:hover {
+  color: #ffffff;
   margin-right: 0;
   margin-left: 30px;
 }
@@ -2802,7 +2814,7 @@ Sticky Header
   line-height: 24px;
   padding: 10px 20px;
   font-size: 16px;
-  color: #ffffff;
+  color: #ff6d2e;
   font-weight: 400;
   text-transform: capitalize;
 }
