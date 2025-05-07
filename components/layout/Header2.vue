@@ -109,7 +109,7 @@
         </ul>
       </nav>
     </div><!-- End Mobile Menu -->
-
+ 
     <!-- Header Search -->
     <div class="search-popup">
       <span class="search-back-drop" @click="handleSearch"></span>
