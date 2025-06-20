@@ -1,1 +1,1 @@
-export { default } from "file:///D:/agrimove-web/agrimove/node_modules/@nuxt/vite-builder/dist/runtime/vite-node.mjs"
+export { default } from "file:///C:/Users/AgriMove/agrimove/node_modules/@nuxt/vite-builder/dist/runtime/vite-node.mjs"
