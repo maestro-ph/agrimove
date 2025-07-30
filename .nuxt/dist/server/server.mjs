@@ -1,0 +1,1 @@
+export { default } from "file:///C:/Users/PERSONAL/OneDrive/Documents/agrimove/agrimove-main/node_modules/@nuxt/vite-builder/dist/runtime/vite-node.mjs"
