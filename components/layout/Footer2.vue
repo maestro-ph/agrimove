@@ -34,7 +34,7 @@
             <div class="footer-widget">
               <h5 class="widget-title">Explore</h5>
               <ul class="user-links">
-                <li><NuxtLink to="#">About Company</NuxtLink></li>
+                <li><NuxtLink to="#">About Our Service</NuxtLink></li>
                 <li><NuxtLink to="#">Pricing Plan</NuxtLink></li>
                 <li><NuxtLink to="#">Request a Quote</NuxtLink></li>
                 <li><NuxtLink to="#">Packaging</NuxtLink></li>

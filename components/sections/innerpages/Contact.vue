@@ -56,7 +56,7 @@
 								</div>
 								<div class="text">
 									<h6>Have any question?</h6>
-									<a href="tel:980089850"><span>Free</span> +92 (020)-9850</a>
+									<a href="tel:09978142880"><span>Free</span> 09978142880</a>
 								</div>
 							</li>
 							<li>
@@ -65,7 +65,7 @@
 								</div>
 								<div class="text">
 									<h6>Write email</h6>
-									<a href="mailto:needhelp@company.com">needhelp@company.com</a>
+									<a href="https://mail.google.com/mail/?view=cm&fs=1&to=usmarttbi.agrimove@gmail.com" target="_blank" rel="noopener">usmarttbi.agrimove@gmail.com</a>
 								</div>
 							</li>
 							<li>
@@ -74,7 +74,7 @@
 								</div>
 								<div class="text">
 									<h6>Visit anytime</h6>
-									<span>66 broklyn golden street. New York</span>
+									<span>University of Southern Mindanao, Kabacan</span>
 								</div>
 							</li>
 						</ul>

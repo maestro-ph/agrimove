@@ -5,10 +5,10 @@
         <div class="content-column col-lg-7 col-md-12 col-sm-12 order-2">
           <div class="inner-column">
             <div class="sec-title">
-              <span class="sub-title">Welcome to logixs</span>
+              <span class="sub-title">Welcome to AgriMove</span>
               <h2>Providing full range of <br>transportation</h2>
             </div>
-            <div class="text">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution </div>
+            <div class="text">A modern logistics platform built specifically for the agriculture sector. We help farmers, suppliers, and agri-businesses streamline their deliveries with efficient, reliable, and cost-effective solutions-so you can focus on growing your business while we take care of the movement. </div>
             <blockquote>You can simplifying your freight & logistics needs with a personal approach on logixs company.</blockquote>
 
 

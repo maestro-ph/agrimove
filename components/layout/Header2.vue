@@ -30,7 +30,7 @@
       <div class="auto-container"> 
         <!-- Main box -->
         <div class="main-box">
-          <div class="logo"><NuxtLink to="/"><img src="/images/logo2.png" alt="" title="logixs"></NuxtLink></div>
+          <div class="logo"><NuxtLink to="/"><img src="/images/3.png" alt="" title="AgriMove"></NuxtLink></div>
           
           <!--Nav Box-->
           <div class="nav-outer">

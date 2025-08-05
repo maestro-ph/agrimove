@@ -606,7 +606,7 @@ ul, li {
   height: 40px;
   text-align: center;
   font-size: 15px;
-  color: #ffffff;
+  color: #ffff;
   background-color: #33372c ;
   border-radius: 50%;
   -webkit-transition: all 300ms ease;
@@ -614,7 +614,7 @@ ul, li {
 }
 .social-icon-one li a:hover {
   background-color: var(--theme-color2);
-  color: #ffffff;
+  color: #ffff;
 }
 
 /*Social Icon Two*/
@@ -2181,7 +2181,7 @@ Main Header
   width: 220px;
   z-index: 100;
   padding: 10px 0 0;
-  background-color: #ffffff;
+  background-color: #FFE4CF;
   margin-top: 30px;
   opacity: 0;
   display: none;
@@ -2209,7 +2209,7 @@ Main Header
   line-height: 29px;
   font-weight: 400;
   font-size: 16px;
-  color: var(--bg-theme-color1);
+  color: var(--bg-theme-color2);
   text-align: left;
   margin: 0 30px;
   text-transform: capitalize;
@@ -2217,7 +2217,7 @@ Main Header
   transition: all 200ms ease;
 }
 .main-menu .navigation > li > ul > li:hover > a {
-  color: var(--theme-color2);
+  color: var(--theme-color1);
 }
 .main-menu .navigation > li > ul > li.dropdown > a:after {
   font-family: "Font Awesome 5 Free";
@@ -2247,7 +2247,7 @@ Main Header
   width: 220px;
   z-index: 100;
   display: none;
-  background-color: #ffffff;
+  background-color: #FFE4CF;
   opacity: 0;
   padding: 10px 0 0;
   margin-top: 10px;
@@ -2271,7 +2271,7 @@ Main Header
   line-height: 24px;
   font-weight: 400;
   font-size: 16px;
-  color: var(--theme-color1);
+  color: var(--theme-color2);
   text-align: left;
   margin: 0 30px;
   text-transform: capitalize;
@@ -2279,7 +2279,7 @@ Main Header
   transition: all 300ms ease;
 }
 .main-menu .navigation > li > ul > li > ul > li > a:hover {
-  color: var(--theme-color2);
+  color: var(--theme-color1);
 }
 
 .main-menu .navigation li.dropdown .dropdown-btn {
@@ -2479,12 +2479,12 @@ Header Style Two
 }
 
 .header-style-two .header-top .social-links {
-  background-color: var(--bg-theme-color2);
+  background-color: var(--bg-theme-color3);
   padding: 0 15px;
 }
 
 .header-style-two .header-top .social-links li a {
-  color: #ffffff;
+  color: #FF9652;
   font-size: 12px;
 }
 .header-style-two .header-top .social-links li a:hover {
@@ -2504,7 +2504,7 @@ Header Style Two
 }
 
 .header-style-two .main-box {
-  background-color: var(--bg-theme-color1);
+  background-color: var(--bg-theme-color3);
   padding: 0 40px;
 }
 
@@ -2517,12 +2517,12 @@ Header Style Two
 }
 
 .header-style-two .main-menu .navigation > li > a {
-  color: #fff;
+  color: #557C46;
 }
 
 .header-style-two .main-menu .navigation > li:hover > a,
 .header-style-two .main-menu .navigation > li.current > a {
-  color: #fff;
+  color: #557C46;
   font-size: 16px;
 }
 
@@ -2531,7 +2531,7 @@ Header Style Two
 }
 
 .header-style-two .ui-btn {
-  color: #fff;
+  color: #FF9652;
   margin-right: 0;
   margin-left: 30px;
 }
@@ -2636,7 +2636,7 @@ Sticky Header
   font-size: 24px;
   line-height: 20px;
   cursor: pointer;
-  color: var(--theme-color1);
+  color: var(--theme-color2);
   display: none;
   top: 0px;
   margin-left: 25px;

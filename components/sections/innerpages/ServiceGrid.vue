@@ -26,7 +26,7 @@
                     <div class="inner-box ">
                         <i class="icon flaticon-delivery-truck-3"></i>
                         <h4><NuxtLink to="page-service-details">Road Transport</NuxtLink></h4>
-                        <div class="text">Lorem ipsum dolor sit amet, consectetur notted adipisicing elit sed do eiusmod.
+                        <div class="text">AgriMove provides reliable and efficient road transport services tailored for agricultural products. Whether you're moving bulk produce from farm to market or delivering supplies to remote areas, our fleet ensures timely, secure, and cost-effective delivery across regions.
                         </div>
                         <NuxtLink to="page-service-details" class="read-more">Read More</NuxtLink>
                         <figure class="image"><NuxtLink to="page-service-details"><img src="/images/resource/service-3.jpg" alt=""></NuxtLink></figure>

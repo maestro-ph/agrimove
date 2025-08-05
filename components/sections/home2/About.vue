@@ -9,16 +9,20 @@
               <div class="text">A modern logistics platform built specifically for the agriculture sector. We help farmers, suppliers, and agri-businesses streamline their deliveries with efficient, reliable, and cost-effective solutions-so you can focus on growing your business while we take care of the movement.</div>
             </div>
             <div class="about-block"> <i class="icon flaticon-cash-on-delivery"></i>
-              <h4>Cost Optimisation </h4>
-              <p>Sed commodo pellentesque arcu, urna fermentum.</p>
+              <h4>Customizable Transport Options </h4>
+              <p>Choose the right vehicle for specific needs</p>
             </div>
             <div class="about-block"> <i class="icon flaticon-delivery-truck-4"></i>
-              <h4>Reduced transit time </h4>
-              <p>Cras facilisis mauris. Sed vitae dui sem.</p>
+              <h4>Cost-Efficient Logistics </h4>
+              <p>Reduce transportation expenses with optimized routes</p>
             </div>
             <div class="about-block"> <i class="icon flaticon-customer-service"></i>
-              <h4>Real time monitoring</h4>
-              <p>Vestibulum dictum et felis eget pellentesque.</p>
+              <h4>Real-Time Tracking</h4>
+              <p>Monitor shipments anytime, anywhere</p>
+            </div>
+            <div class="about-block"> <i class="icon flaticon-delivery-truck-4"></i>
+              <h4>Reliable and Secure Deliveries</h4>
+              <p>Minimize product damage and delays</p>
             </div>
             <NuxtLink to="page-about" class="theme-btn btn-style-one"><span class="btn-title">Discover more</span></NuxtLink>
           </div>
