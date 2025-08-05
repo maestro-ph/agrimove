@@ -1957,7 +1957,7 @@ Main Header
   display: block;
   font-size: 14px;
   line-height: 20px;
-  color: #7c858c;
+  color: #FF9652;
   padding: 10px 0px;
   width: 40px;
   text-align: center;
@@ -2181,7 +2181,7 @@ Main Header
   width: 220px;
   z-index: 100;
   padding: 10px 0 0;
-  background-color: #FFE4CF;
+  background-color: #FFFF;
   margin-top: 30px;
   opacity: 0;
   display: none;
@@ -2247,7 +2247,7 @@ Main Header
   width: 220px;
   z-index: 100;
   display: none;
-  background-color: #FFE4CF;
+  background-color: #FFFF;
   opacity: 0;
   padding: 10px 0 0;
   margin-top: 10px;
@@ -2504,7 +2504,7 @@ Header Style Two
 }
 
 .header-style-two .main-box {
-  background-color: var(--bg-theme-color-light);
+  background-color: var(--theme-color-light);
   padding: 0 40px;
 }
 
