@@ -17,7 +17,7 @@
         <div class="top-right">
           <!-- Info List -->
           <ul class="info-list">
-            <li><i class="fa fa-envelope"></i> <NuxtLink to="mailto:needhelp@company.com">needhelp@company.com</NuxtLink></li>
+            <li><i class="fa fa-envelope"></i> <a href="https://mail.google.com/mail/?view=cm&fs=1&to=usmarttbi.agrimove@gmail.com" target="_blank" rel="noopener">usmarttbi.agrimove@gmail.com</a></li>
             <li><i class="fa fa-clock"></i> Mon - Sat 8:00 - 6:30, Sunday - CLOSED</li>
           </ul>
         </div>
@@ -70,7 +70,7 @@
                 <i className="icon lnr-icon-phone-handset"></i>
                 <span className="title">Call Now</span>
                 <div className="text">
-                  <NuxtLink to="/tel:+92880098670">+92 (8800) - 98670</NuxtLink>
+                  <NuxtLink to="/tel:+92880098670">09978142880</NuxtLink>
                 </div>
               </div>
             </li>

@@ -2504,7 +2504,7 @@ Header Style Two
 }
 
 .header-style-two .main-box {
-  background-color: var(--bg-theme-color3);
+  background-color: var(--bg-theme-color-light);
   padding: 0 40px;
 }
 

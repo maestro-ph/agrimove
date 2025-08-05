@@ -6,9 +6,9 @@
           <div class="inner-column">
             <div class="sec-title">
               <span class="sub-title">Welcome to AgriMove</span>
-              <h2>Providing full range of <br>transportation</h2>
+              <h2>Tech driven logistic for <br>agricultural products</h2>
             </div>
-            <div class="text">A modern logistics platform built specifically for the agriculture sector. We help farmers, suppliers, and agri-businesses streamline their deliveries with efficient, reliable, and cost-effective solutions-so you can focus on growing your business while we take care of the movement. </div>
+            <div class="text">AgriMove offers a full range of transport solutions designed specifically for the agriculture sector. Whether you're a farmer, supplier, or buyer, we simplify your logistics needs with a personalized and reliable approach, ensuring your products get from farm to market efficiently and affordably. </div>
             <blockquote>You can simplifying your freight & logistics needs with a personal approach on logixs company.</blockquote>
 
 

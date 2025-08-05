@@ -55,12 +55,12 @@
 					<div class="services-details__content">
 						<img src="/images/resource/service-details.jpg" alt="" />
 						<h2 class="mt-4">Service Overview</h2>
-						<p>Lorem ipsum is simply free text used by copytyping refreshing. Neque porro est qui dolorem ipsum quia quaed inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Aelltes port lacus quis enim var sed efficitur turpis gilla sed sit amet finibus eros. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ndustry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-						<p>When an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. </p>
+						<p>AgriMove is a logistics platform designed to simplify and streamline the transportation of agricultural products. By eliminating middlemen, we empower farmers to deliver their goods directly to market suppliers with greater efficiency and control. Our platform offers customizable and cost-effective transport solutions, including bulk deliveries tailored to meet the needs of agricultural producers and buyers.</p>
+						<p>With AgriMove, we ensure that products reach their destinations fresh, fast, and securely—bridging the gap between farms and markets through smart, tech-enabled logistics </p>
 						<div class="content">
 							<div class="text">
 								<h3>Our Scope of Work</h3>
-								<p>Lorem ipsum is simply free text used by copytyping refreshing. Neque porro est qui dolorem ipsum quia quaed inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+								<p>AgriMove is committed to transforming agricultural logistics specifically in the province of North Cotabato by offering a smart and accessible delivery platform tailored to the needs of farmers, suppliers, and transport providers. Our application focuses on improving efficiency, reducing costs, and ensuring the secure and timely delivery of agricultural goods.</p>
 							</div>
 							<div class="feature-list">
 								<div class="row clearfix">
@@ -105,7 +105,7 @@
 						</div>
 						<div class="">
 							<h3>Frequently Asked Question</h3>
-							<p>Lorem ipsum is simply free text used by copytyping refreshing. Neque porro est qui dolorem ipsum quia quaed inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+							<p>Find quick answers to common questions about how AgriMove works—covering everything from booking a delivery to tracking your shipment, payment options, and service coverage.</p>
 				            <ul class="accordion-box wow fadeInRight">
 				              <!--Block-->
 				              <li class="accordion block" :class="{ 'active-block': isActive.key === 1}">
@@ -114,7 +114,7 @@
 				                </div>
 				                <div class="acc-content" :class="{ 'current': isActive.key === 1}">
 				                  <div class="content">
-				                    <div class="text">There are many variations of passages the majority have suffered alteration in some fo injected humour, or randomised words believable.</div>
+				                    <div class="text">There are many variations of passages the majority have suffered alteration in some fo injected humour, or randomized words believable.</div>
 				                  </div>
 				                </div>
 				              </li>
@@ -126,7 +126,7 @@
 				                </div>
 				                <div class="acc-content" :class="{ 'current': isActive.key === 2}">
 				                  <div class="content">
-				                    <div class="text">There are many variations of passages the majority have suffered alteration in some fo injected humour, or randomised words believable.</div>
+				                    <div class="text">There are many variations of passages the majority have suffered alteration in some fo injected humour, or randomized words believable.</div>
 				                  </div>
 				                </div>
 				              </li>
@@ -138,7 +138,7 @@
 				                </div>
 				                <div class="acc-content" :class="{ 'current': isActive.key === 3}">
 				                  <div class="content">
-				                    <div class="text">There are many variations of passages the majority have suffered alteration in some fo injected humour, or randomised words believable.</div>
+				                    <div class="text">There are many variations of passages the majority have suffered alteration in some fo injected humour, or randomized words believable.</div>
 				                  </div>
 				                </div>
 				              </li>
@@ -150,7 +150,7 @@
 				                </div>
 				                <div class="acc-content" :class="{ 'current': isActive.key === 4}">
 				                  <div class="content">
-				                    <div class="text">There are many variations of passages the majority have suffered alteration in some fo injected humour, or randomised words believable.</div>
+				                    <div class="text">There are many variations of passages the majority have suffered alteration in some fo injected humour, or randomized words believable.</div>
 				                  </div>
 				                </div>
 				              </li>
